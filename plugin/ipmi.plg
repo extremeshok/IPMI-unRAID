@@ -313,9 +313,9 @@
 This plugin uses freeipmi to display sensor readings
 -->
 
-<FILE Name="&plgPATH;/freeipmi-1.6.3-x86_64-1.txz" Min="6.8" Run="/sbin/upgradepkg --install-new">
-<URL>&pkgURL;/freeipmi-1.6.3-x86_64-1.txz</URL>
-<MD5>66a3efd19bd7cc53ef07c14a77431fe7</MD5>
+<FILE Name="&plgPATH;/freeipmi-1.6.3-x86_64-2.txz" Min="6.8" Run="/sbin/upgradepkg --install-new">
+<URL>&pkgURL;/freeipmi-1.6.3-x86_64-2.txz</URL>
+<MD5>b29f029f4e69729967a09cd2bf7ba587</MD5>
 </FILE>
 
 <FILE Name="&plgPATH;/freeipmi-1.5.7-x86_64-2.txz" Min="6.2" Max="6.7.99" Run="/sbin/upgradepkg --install-new">
